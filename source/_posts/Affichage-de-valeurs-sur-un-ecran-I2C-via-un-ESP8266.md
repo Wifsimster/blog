@@ -9,6 +9,7 @@ tags:
 Cet article met en avant l’utilisation d’un écran I2C OLED et d’un ESP8266 afin d’afficher des valeurs en provenance d’un broker MQTT.
 
 ## Prérequis
+
 Pour réaliser ce montage, il vous faut :
 
 - 1 [ESP8266](http://www.ebay.fr/itm/ESP8266-Serial-WIFI-Wireless-TransceiveR-Module-Send-Receive-LWIP-AP-STA-/271935772447?hash=item3f50a2971f:g:QEYAAOSw9N1VrfAJ);
